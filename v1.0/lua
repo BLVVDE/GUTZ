@@ -1,13 +1,16 @@
---[[ This file was generated using Luraph Obfuscator v14.0.3 [https://lura.ph/]
-> discord.gg/gtz | discord.gg/juunes | discord - @blvvde. <
-- Made by blvvde/mando & 2heyo -
+--[[
+
+ { PROTECTED USING LUARMOR }
+> | Whitelist @ discord.gg/gtz |<
+- Made by blvvde/mando & 2heyo 
 
  ██████╗ ██╗   ██╗████████╗███████╗
 ██╔════╝ ██║   ██║╚══██╔══╝╚══███╔╝
 ██║  ███╗██║   ██║   ██║     ███╔╝ 
 ██║   ██║██║   ██║   ██║    ███╔╝  
 ╚██████╔╝╚██████╔╝   ██║   ███████╗
- ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝                                  
+ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝   
+
 ]]
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/72c7b1e44a8f21dc34e44b019fdba3b7.lua"))()
